@@ -1,0 +1,5 @@
+/data
+*.csv
+*.zip
+test.py
+test.txt
